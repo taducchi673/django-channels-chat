@@ -1,3 +1,4 @@
+web: gunicorn app:app
 [[source]]
 name = "pypi"
 url = "https://pypi.org/simple"
